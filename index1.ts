@@ -1,2 +1,2 @@
-
-console.log("adad")
+import chalk from "chalk"
+console.log(chalk.red("adad"))

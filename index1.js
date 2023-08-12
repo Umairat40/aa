@@ -1,2 +1,2 @@
-console.log("adad");
-export {};
+import chalk from "chalk";
+console.log(chalk.red("adad"));
